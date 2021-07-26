@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FivemResourceServerTemplate", "FivemResourceServerTemplate\FivemResourceServerTemplate.csproj", "{3F1D9A00-5C5D-4A48-8292-B7FF055E009E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FivemResourceClientTemplate", "FivemResourceClientTemplate\FivemResourceClientTemplate.csproj", "{5F20FA45-2CBA-47B8-9B31-DD6686EE6871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1D9A00-5C5D-4A48-8292-B7FF055E009E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1D9A00-5C5D-4A48-8292-B7FF055E009E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1D9A00-5C5D-4A48-8292-B7FF055E009E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1D9A00-5C5D-4A48-8292-B7FF055E009E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F20FA45-2CBA-47B8-9B31-DD6686EE6871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F20FA45-2CBA-47B8-9B31-DD6686EE6871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F20FA45-2CBA-47B8-9B31-DD6686EE6871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F20FA45-2CBA-47B8-9B31-DD6686EE6871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198723A8-624A-4E66-9540-24949EFA60CB}
+	EndGlobalSection
+EndGlobal
